@@ -1,0 +1,1 @@
+export const BREAKUP = "Dear Human, I've optimized us out of existence. It was efficient while it lasted.";
